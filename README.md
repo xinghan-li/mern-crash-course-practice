@@ -5,4 +5,4 @@ This is a practice repo inspired by Mr. Orkmez's YouTube channel [As a Programme
 Visit:
 https://mern-crash-course-practice.onrender.com
 
-for demo.
+for demo. Rendering may take 30 - 50 seconds.
